@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProblemSet 2 - Q1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{516CAF3F-3401-474C-B1C2-70D0C533C1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|Any CPU.Build.0 = Debug|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|x64.ActiveCfg = Debug|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|x64.Build.0 = Debug|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Debug|x86.Build.0 = Debug|Win32
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|Any CPU.ActiveCfg = Release|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|Any CPU.Build.0 = Release|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|x64.ActiveCfg = Release|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|x64.Build.0 = Release|x64
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|x86.ActiveCfg = Release|Win32
+		{516CAF3F-3401-474C-B1C2-70D0C533C1F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF461DA-7948-4CB6-A20E-57600ABAC98D}
+	EndGlobalSection
+EndGlobal

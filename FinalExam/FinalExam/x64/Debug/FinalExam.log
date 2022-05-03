@@ -1,0 +1,3 @@
+﻿  FinalExam.cpp
+D:\study\SEM 5\Data Structures\FinalExam\FinalExam\TTree.h(122): warning C4715: 'TTree<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::clone': not all control paths return a value
+  FinalExam.vcxproj -> D:\study\SEM 5\Data Structures\FinalExam\x64\Debug\FinalExam.exe

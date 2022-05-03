@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "516caf3f-3401-474c-b1c2-70d0c533c1f7": {
+      "ProjectGuid": "516caf3f-3401-474c-b1c2-70d0c533c1f7",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 0
+    },
+    "cec716ca-b0cf-408c-992c-49ccb1b32ac1": {
+      "ProjectGuid": "cec716ca-b0cf-408c-992c-49ccb1b32ac1",
+      "DisplayName": "Problem Set 2 - Q2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d01dbbe1-f646-4bc4-8ade-a948dab75873": {
+      "ProjectGuid": "d01dbbe1-f646-4bc4-8ade-a948dab75873",
+      "DisplayName": "tesst",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
